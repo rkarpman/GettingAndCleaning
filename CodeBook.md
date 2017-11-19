@@ -2,7 +2,6 @@
 ***
 ### Codebook
 #### Author: Rachel Karpman
-\
 
 
 ### The Original Dataset 
