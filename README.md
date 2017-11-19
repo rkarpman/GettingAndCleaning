@@ -1,7 +1,7 @@
 ### Data Cleaning Project: Wearable Computing
 ***
 #### Author: Rachel Karpman
-\
+
 
 
 This analysis uses the dataset _Human Activity Recognition Using Smartphones_, 
